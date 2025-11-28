@@ -3,7 +3,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 class AiService {
   // TODO: Reemplaza esto con tu API Key real de Google AI Studio
   // Consíguela aquí: https://aistudio.google.com/app/apikey
-  static const String _apiKey = 'AIzaSyBmomnysJzFIrqBr7e-47G4UC00ziiAZx8';
+  static const String _apiKey = 'AIzaSyBkyS4ueNW-6OS0PM8MgHGl2VbQ_3bIcKY';
 
   late final GenerativeModel _model;
 
